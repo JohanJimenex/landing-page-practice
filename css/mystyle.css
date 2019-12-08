@@ -1,0 +1,12 @@
+.background{
+    background-image: url(../img/background.jpg);
+    background-size: cover  ;
+    width: 100%;
+    height: 100%;
+}
+
+.cover{
+    background: rgba(34, 147, 223, 0.8);
+    height: 100%;
+
+}
